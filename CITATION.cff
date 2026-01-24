@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Camera-Based PPG Signal Acquisition"
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: ALT3RNATOR
+    given-names: Ankit
+version: 1.0.0
+date-released: 2026-01-01
+license: MIT
+repository-code: https://github.com/ALT3RNATOR/Camera-Based-PPG-Acquisition
