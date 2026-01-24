@@ -24,6 +24,3 @@ Photoplethysmography is extracted by computing the **mean intensity of the green
 Green light (~540 nm) exhibits strong absorption by hemoglobin, making it ideal for camera-based PPG extraction.
 
 ---
-
-## 📁 Repository Structure
-
