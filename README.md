@@ -11,7 +11,7 @@ The system captures raw PPG signals in real time, excludes warm-up artifacts, st
 - 📷 Smartphone / USB camera based PPG acquisition
 - 🟢 Green channel intensity extraction (rPPG)
 - ⏳ Warm-up time exclusion
-- ⏱ Automatic data milestones (90s & 120s)
+- ⏱ Automatic data milestones (90s & 120s) 
 - 💾 Patient-wise CSV storage
 - 📈 Interactive Plotly visualization
 - 📊 Effective sampling rate estimation
